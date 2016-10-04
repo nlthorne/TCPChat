@@ -1,1 +1,0 @@
-C:\Users\nltho\Documents\GitHub\TCPChat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.exe.config
