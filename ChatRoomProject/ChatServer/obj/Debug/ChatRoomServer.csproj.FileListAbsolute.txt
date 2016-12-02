@@ -1,5 +1,4 @@
 C:\Users\nltho\Documents\GitHub\TCPChat\ChatRoomProject\ChatServer\bin\Debug\ChatServer.exe.config
-C:\Users\nltho\Documents\GitHub\TCPChat\ChatRoomProject\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
 C:\Users\nltho\Documents\GitHub\TCPChat\ChatRoomProject\ChatServer\bin\Debug\ChatServer.exe
 C:\Users\nltho\Documents\GitHub\TCPChat\ChatRoomProject\ChatServer\bin\Debug\ChatServer.pdb
 C:\Users\nltho\Documents\GitHub\TCPChat\ChatRoomProject\ChatServer\obj\Debug\ChatServer.exe

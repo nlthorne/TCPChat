@@ -1,0 +1,6 @@
+C:\Users\nltho\Documents\GitHub\TCPChat\ChatRoomProject\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\nltho\Documents\GitHub\TCPChat\ChatRoomProject\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\nltho\Documents\GitHub\TCPChat\ChatRoomProject\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\nltho\Documents\GitHub\TCPChat\ChatRoomProject\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\nltho\Documents\GitHub\TCPChat\ChatRoomProject\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\nltho\Documents\GitHub\TCPChat\ChatRoomProject\ChatClient\obj\Debug\ChatClient.pdb
